@@ -2,15 +2,25 @@
 Welcome to the repository for my DRDO Summer Internship project! 🎓 This project aims to predict data trends securely and efficiently using Federated Learning integrated with Blockchain technology. 🚀 By focusing on decentralized processing and secure, immutable data sharing, this approach ensures privacy and security for sensitive data.
 
 📖 Table of Contents
+
 Project Overview
+
 Why Federated Learning with Blockchain?
+
 Technology Stack
+
 Architecture
+
 Data Prediction Process
+
 Challenges and Solutions
+
 How to Run the Project
+
 Conclusion
+
 Contributing
+
 License
 
 
